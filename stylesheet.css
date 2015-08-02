@@ -1,0 +1,44 @@
+.wrapper {
+	border-style: solid;
+	width: 600px;
+	height: 600px;
+	margin: 20px auto;
+	padding: 0px;
+}
+
+.buttons {
+	width: 400px;
+	padding: 0px;
+	margin: auto;
+}
+
+.square {
+	height: 37.5px;
+	width: 37.5px;
+	float: left;
+	outline: 1px solid black;
+	background-color: white;
+}
+
+a {
+	text-decoration: none;
+}
+
+.header div {
+	width: 450px;
+	margin: auto;
+	vertical-align: center;
+}
+
+h2 {
+	width: 410px;
+	margin: auto;
+}
+
+#clear {
+	float: left;
+}
+
+#new {
+	float: right;
+}
